@@ -1,0 +1,1 @@
+Script usado para verificar as fotos obtidas e definir quais faltam, com base em um 'txt' com as matrículas ativas. O script lê o txt, verifica se a foto existe na pasta indicada e, caso não exista, salva a matrícula em um 'txt' chamado 'resultado'.
